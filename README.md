@@ -198,11 +198,15 @@
   </a>
 </p>
 
+<h2 align="center">🦊 My GitLab Activity</h2>
+
 <p align="center">
-  <img
-    src="https://gitlab-readme-stats-liart.vercel.app/api?username=maucisanico"
-    alt="GitLab Statistics"
-  />
+  <a href="https://gitlab.com/maucisanico">
+    <img
+      src="https://img.shields.io/badge/GitLab-My_Activity-FC6D26?style=for-the-badge&logo=gitlab"
+      alt="GitLab Activity"
+    />
+  </a>
 </p>
 
 ---
