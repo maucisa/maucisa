@@ -198,16 +198,12 @@
   </a>
 </p>
 
-<h2 align="center">🦊 My GitLab Activity</h2>
-
-<p align="center">
-  <a href="https://gitlab.com/maucisanico">
-    <img
-      src="https://img.shields.io/badge/GitLab-My_Activity-FC6D26?style=for-the-badge&logo=gitlab"
-      alt="GitLab Activity"
-    />
-  </a>
-</p>
+<iframe
+  src="https://gitlab.com/maucisanico"
+  width="100%"
+  height="800"
+  frameborder="0">
+</iframe>
 
 ---
 
