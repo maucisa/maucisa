@@ -199,18 +199,10 @@
 </p>
 
 <p align="center">
-  <a href="https://gitlab.com/maucisanico" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitLab-Visit_My_Profile-orange?style=for-the-badge&logo=gitlab"
-      alt="GitLab Profile"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://gitlab.com/maucisanico">
-    View My GitLab Profile
-  </a>
+  <img
+    src="https://gitlab-readme-stats-liart.vercel.app/api?username=maucisanico"
+    alt="GitLab Statistics"
+  />
 </p>
 
 ---
